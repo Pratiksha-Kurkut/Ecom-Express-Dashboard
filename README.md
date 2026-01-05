@@ -30,4 +30,4 @@ Standardized category and product names
 Created date hierarchies (Year, Quarter, Month)
 Derived calculated columns such as revenue, cancellation metrics, and AOV
 
-
+Reference - https://github.com/Pratiksha-Kurkut/Ecom-Express-Dashboard/blob/main/Ecom%20Express%20Dashboard.png
